@@ -27,11 +27,10 @@
           "categories:accessibility": ["warn", {"aggregationMethod": "optimistic", "minScore": 0.95}],
           "categories:best-practices": ["warn", {"aggregationMethod": "optimistic", "minScore": 0.95}],
           "categories:seo": ["warn", {"aggregationMethod": "optimistic", "minScore": 0.95}]
-                    
+        }            
         },
         "upload": {
             "target": "temporary-public-storage"
         }    
-      }
     }
   }
